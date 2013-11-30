@@ -3,6 +3,11 @@ Deaf-Grandma
 
 Deaf Grandma project for Thinkful Ruby on Rails curriculum and Chris Pine's Learn to Program. 
 
+Project Status
+==============
+
+So far, I have implemented objective 1 from the project instructions, below. 
+
 
 Project Instructions
 ====================
