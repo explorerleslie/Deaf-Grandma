@@ -1,7 +1,12 @@
 def deaf_grandma
   while true
     command = gets.chomp
-    if command == 'I love ya, Grandma, but I\'ve got to go.'
+    if command == ''
+      command = gets.chomp
+      if command == ''
+        break
+      end
+    elsif command == 'I love ya, Grandma, but I\'ve got to go.'
       break
     elsif command == command.upcase
       bye_counter = 0
