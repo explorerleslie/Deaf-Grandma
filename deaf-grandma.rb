@@ -1,8 +1,11 @@
 def deaf_grandma
   silent_counter = 0
+  puts 'Grandma pinched your cheeks!'
   while silent_counter < 2
     command = gets.chomp
-    if command == ''
+    if command[0,1] == '<' #indicates a non-verbal action
+      puts 'Come here and give Grandma a kiss!'
+    elsif command == ''
       silent_counter += 1
     elsif command == "I love ya, Grandma, but I\'ve got to go."
       break
