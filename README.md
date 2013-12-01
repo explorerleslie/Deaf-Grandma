@@ -10,8 +10,8 @@ So far, I have implemented objective 1 & 2 from the project instructions, below.
 
 Optional challenges implemented: 
 1. Grandma responses with a random year from 1930 to 1950 when you shout at her. 
-2. Grandma pinches your cheeks every time you arrive. 
-3. You can respond to Grandma with non-verbal cues. Just prefix your cue with '<', such as '<hug>'. Right now, Grandma just response with a request for a kiss each time you give a non-verbal cue. 
+2. Grandma pinches your cheeks every time you arrive.
+3. You can respond to Grandma with non-verbal cues. Just prefix your cue with '<', such as '<hug>'. But be careful...Grandma responds to non-verbal cues differently in the morning and in the evening. :)
 
 
 Project Instructions
