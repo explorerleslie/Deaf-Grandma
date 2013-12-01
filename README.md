@@ -6,7 +6,7 @@ Deaf Grandma project for Thinkful Ruby on Rails curriculum and Chris Pine's Lear
 Project Status
 ==============
 
-So far, I have implemented objective 1 from the project instructions, below. 
+So far, I have implemented objective 1 & 2 from the project instructions, below. 
 
 
 Project Instructions
